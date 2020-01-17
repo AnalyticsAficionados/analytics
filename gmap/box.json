@@ -4,7 +4,7 @@
 	"name": "Google Map",
 	"description": "A Google Map SAC Custom Widget",
 	"newInstancePrefix": "Map",
-	"icon": "https://ferrygun.github.io/proj/gmap/box/icon.png",
+	"icon": "https://analyticsaficionados.github.io/analytics/gmap/box/icon.png",
 	"vendor": "FD",
 	"eula": "EULA",
 	"license": "2.0",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-fd-gmap",
-			"url": "https://ferrygun.github.io/proj/gmap/box/box.js",
+			"url": "https://analyticsaficionados.github.io/analytics/gmap/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
