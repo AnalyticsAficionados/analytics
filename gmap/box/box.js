@@ -18,7 +18,7 @@
 	var loader_firsttime = 0;
 	
 	const loader = "https://www.gstatic.com/charts/loader.js";	
-	const gaugejs = "https://ferrygun.github.io/proj/gmap/box/t.js";
+	const gaugejs = "https://analyticsaficionados.github.io/analytics/gmap/box/t.js";
 	
 	function loadScript(src, callback) {
 	    const script = document.createElement('script');
