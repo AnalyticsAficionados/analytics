@@ -18,7 +18,7 @@
     let firsttime = 0;
 
     const loader = "https://www.gstatic.com/charts/loader.js";
-    const gaugejs = "https://ferrygun.github.io/proj/googlegauge/box/t.js";
+    const gaugejs = "https://analyticsaficionados.github.io/analytics/googlegauge/box/t.js";
 
     function loadScript(src, callback) {
         const script = document.createElement('script');
