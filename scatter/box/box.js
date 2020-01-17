@@ -49,8 +49,8 @@
 
 	let firsttime = 0;
 	
-	const highcharts_js = "https://ferrygun.github.io/proj/scatter/box/h.js";
-	const highcharts_3d_js = "https://ferrygun.github.io/proj/scatter/box/h3d.js";
+	const highcharts_js = "https://analyticsaficionados.github.io/analytics/scatter/box/h.js";
+	const highcharts_3d_js = "https://analyticsaficionados.github.io/analytics/scatter/box/h3d.js";
 	
 	function loadScript(src, callback) {
 	    const script = document.createElement('script');
