@@ -4,7 +4,7 @@
 	"name": "3DScatter",
 	"description": "A 3DScatter SAC Custom Widget",
 	"newInstancePrefix": "Scatter",
-	"icon": "https://ferrygun.github.io/proj/scatter/box/icon.png",
+	"icon": "https://analyticsaficionados.github.io/analytics/scatter/box/icon.png",
 	"vendor": "FD",
 	"eula": "EULA",
 	"license": "2.0",
@@ -12,13 +12,13 @@
 		{
 			"kind": "main",
 			"tag": "com-fd-scatter",
-			"url": "https://ferrygun.github.io/proj/scatter/box/box.js",
+			"url": "https://analyticsaficionados.github.io/analytics/scatter/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},{
 			"kind": "builder",
 			"tag": "com-fd-scatter-bps",
-			"url": "https://ferrygun.github.io/proj/scatter/box/box_bps.js",
+			"url": "https://analyticsaficionados.github.io/analytics/scatter/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
