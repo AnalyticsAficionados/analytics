@@ -4,7 +4,7 @@
 	"name": "Google Gauge",
 	"description": "A Google Gauge SAC Custom Widget",
 	"newInstancePrefix": "GoogleGauge",
-	"icon": "ttps://ferrygun.github.io/proj/googlegauge/box/icon.png",
+	"icon": "https://analyticsaficionados.github.io/analytics/googlegauge/box/icon.png",
 	"vendor": "Pfizer",
 	"eula": "EULA",
 	"license": "2.0",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-fd-googlegauge",
-			"url": "https://ferrygun.github.io/proj/googlegauge/box/box.js",
+			"url": "https://analyticsaficionados.github.io/analytics/googlegauge/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
